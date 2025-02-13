@@ -1,5 +1,6 @@
 import React from 'react'
 import homeIntro2 from '../img/home-intro2.jpg'
+import styled from 'styled-components'
 
 const BenefitsSection = () => {
   return (
